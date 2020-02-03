@@ -1,16 +1,12 @@
 {
-  "posts": [
-    {
-      "iid": 1509,
-      "uid": "1222",
-      "status": "8",
-      "TrackID": "20200203112557293_E9CC3507-5926-46FF-B4ED-B7EF28182805",
-      "Rcvr": "96565791324",
-      "TransactionID": "b70f4727-d20e-46be-92f2-e98daf407f3b",
-      "ID": "91044748"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"status":0,
+"trackid":"20200203145246393_FB84D755-1BCB-4758-9716-53C9F7342FF6",
+"id":91061142,
+"type":"dlrstatus",
+"iid":1665,
+"transactionid":"77ff3a99-aa5c-4db6-9f07-0ed9886406dd",
+"@timestamp":"2020-02-03T11:52:02.155Z",
+"@version":"1",
+"rcvr":"96566052076",
+"uid":"3275"
 }
